@@ -1,2 +1,0 @@
-# Urun-Yonetimi
-Ürün yönetimi
